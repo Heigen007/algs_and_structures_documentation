@@ -1,0 +1,21 @@
+# Linear search
+
+## Example
+
+```
+function linearSearch(array, item) {
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] === item) {
+            return i;
+        }
+    }
+    return null
+}
+```
+
+## Usage
+
+```
+const array = [1,4,5,8,5,1,2,7,5,2,11]
+linearSearch(array, 1)
+```
