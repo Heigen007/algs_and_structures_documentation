@@ -3,6 +3,6 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: 
 actionText: Quick Start →
-actionLink: /algorhitms/
+actionLink: /algorithms/
 footer: Made by Heigen007 with ❤️
 ---
